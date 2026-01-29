@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](output/top6_lang.svg)
 <!--
 **da-pinci/da-pinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
