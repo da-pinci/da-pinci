@@ -33,19 +33,19 @@
   <text id="title" x="33" y="40" font-size="14" font-weight="bold" fill="#fff" font-family="system-ui, -apple-system, sans-serif">Most Used Languages</text>
   <text id="topLang" class="top" x="135" y="80" font-size="38" dominant-baseline="middle" text-anchor="middle" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Kotlin</text>
   <text id="topPercent" class="top" x="330" y="70" font-size="28" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >100.00%</text>
-  <text id="topByte" class="top" x="330" y="95" font-size="16" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >2230 bytes</text>
+  <text id="topByte" class="top" x="330" y="95" font-size="16" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif" dominant-baseline="middle" text-anchor="middle" >4383 bytes</text>
 
   <rect x="14" y="115.8" width="400" height="1" fill="url(#animeGrad)" />
 
 <g transform="translate(0, 0)">
  <text class="" x="215" y="155" font-size="13" dominant-baseline="middle" text-anchor="middle" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Overview</text>
   <text x="33" y="180" font-size="13" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Date:</text>
-  <text x="265" y="180" font-size="13" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif">2026-02-02 02:39 UTC</text>
+  <text x="265" y="180" font-size="13" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif">2026-02-09 02:40 UTC</text>
   <text x="33" y="205" font-size="13" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Author:</text>
   <text x="265" y="205" font-size="13" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif">da-pinci</text>
   <text x="33" y="230" font-size="13" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Repositories scanned:</text>
-  <text x="265" y="230" font-size="13" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif">3</text>
+  <text x="265" y="230" font-size="13" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif">4</text>
   <text x="33" y="255" font-size="13" font-weight="bold" fill='#fff' font-family="system-ui, -apple-system, sans-serif">Total bytes:</text>
-  <text x="265" y="255" font-size="13" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif">2230</text>
+  <text x="265" y="255" font-size="13" font-weight="normal" fill='#fff' font-family="system-ui, -apple-system, sans-serif">4383</text>
 </g>
 </svg>
